@@ -1,5 +1,5 @@
 # mini_chat_project
-</br>
+- 멋사 미니 프로젝트
 
 ## 📌 기본 요구사항
 
